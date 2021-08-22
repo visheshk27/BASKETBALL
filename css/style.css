@@ -1,5 +1,8 @@
 html{
-    cursor: url('customCursor.png'), auto;
+    cursor: url('customCursor.png'), auto default;
+}
+*{
+    cursor: url('customCursor.png'), auto default;
 }
 
 body {
